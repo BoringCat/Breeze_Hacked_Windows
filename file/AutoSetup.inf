@@ -2,7 +2,7 @@
 signature="$CHICAGO$"
 [DefaultInstall]
 CopyFiles = Scheme.Cur
-AddReg    = Scheme.Reg,Wre
+AddReg    = Scheme.Reg,Wreg
 [DestinationDirs]
 Scheme.Cur = 10,"%CUR_DIR%"
 [Scheme.Reg]
