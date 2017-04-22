@@ -1,6 +1,8 @@
 ﻿# Breeze_Hacked for Windows  
 将["thewisenerd/Breeze_Hacked"](https://github.com/thewisenerd/Breeze_Hacked)的鼠标指针Clone至此，并修改为Windows的鼠标指针样式
 
+## 应"Kratosmax"的要求，添加XL大小的鼠标指针样式
+
 ### <font color=#0099ff size=6>1、使用方法</font>
 
 将 Breeze_Hacked_Windows 下载到本地。  
